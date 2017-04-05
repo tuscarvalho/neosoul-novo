@@ -2,8 +2,9 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
-    <title>Digital Agency Landing Template</title>
+
+    <title>Neo Soul - Soluções para Comunicação e Eventos</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/bundle.css">
 </head>
@@ -14,13 +15,13 @@
     <div class="top-bar">
         <div class="container">
             <div class="col-md-2 col-sm-3 phone">
-                <i class="fa fa-phone" aria-hidden="true"></i> <a>+805345899404</a>
+                <i class="fa fa-phone" aria-hidden="true"></i> <a>+55 11 2631-5108</a>
             </div>
-            <div class="col-md-3 col-sm-4">
-                <i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:name@email.com">info@domainname.com</a>
+            <div class="col-md-3 col-sm-5">
+                <i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:name@email.com">projetos@neosoulsolucoes.com.br</a>
             </div>
             <div class="col-md-3 col-md-offset-4 login">
-                <a href="#"><i class="fa fa-user-o" aria-hidden="true"></i>Login - Sign in</a>
+                <!--<a href="#"><i class="fa fa-user-o" aria-hidden="true"></i>Login - Sign in</a>-->
             </div>
         </div>
     </div>
@@ -31,12 +32,12 @@
             </div>
             <div class="col-md-9 col-sm-6 col-xs-6">
                 <ul class="menu right">
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#services">Services</a></li>
+                    <li><a href="#about">Sobre</a></li>
+                    <li><a href="#services">Serviços</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
                     <li><a href="#skills">Skills</a></li>
                     <li><a href="#pricing">Pricing</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#contact">Contato</a></li>
                 </ul>
                 <!--Mobile menu button-->
                 <a href="#" data-activates="slide-out" class="button-collapse hide-on-large-only">
@@ -48,9 +49,11 @@
     <ul id="slide-out" class="side-nav"></ul>
     <div class="container content">
         <div class="content">
-            <h1>Digital Agency</h1>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
-            <a class="btn dark-blue waves-effect waves-light">Sign Up</a>
+            <h1>Neo Soul Soluções</h1>
+            <p>Somos uma empresa com equipes  especializadas em Consultoria,Marketing, Desenvolvimento de Web Sites e Identidade Visual.
+                Trazendo modernidade para VOCÊ!
+            </p>
+            <a class="btn dark-blue waves-effect waves-light" href="index.php#about">Saiba mais!</a>
         </div>
     </div>
 </header>
@@ -58,31 +61,40 @@
 <main>
     <!--About-->
     <section class="about" id="about">
-        <h3>About Us</h3>
+        <h3>Conheça a NeoSoul</h3>
         <div class="container">
-            <div class="col-md-3 col-sm-6">
-                <h5 id="hourglass">0</h5>
-                <span class="icon"><i class="fa fa-hourglass-half" aria-hidden="true"></i></span>
-                <p>Lorem ipsum
-                    <br> dolar sit amet</p>
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <p>
+                        Uma empresa com uma nova abordagem, mais próxima, com equipamentos e um time de especialistas que desenvolverá seus desafios com uma nova visão, muito mais moderna e pronta para as necessidades do mercado atual. Nosso atendimento é personalizado e estamos prontos para realizar seus projetos desde a ideia até a instalação.
+                    </p>
+                </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-                <h5 id="chart">0</h5>
-                <span class="icon"><i class="fa fa-line-chart" aria-hidden="true"></i></span>
-                <p>Lorem ipsum
-                    <br> dolar sit amet</p>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <h5 id="usd">0</h5>
-                <span class="icon"><i class="fa fa-usd" aria-hidden="true"></i></span>
-                <p>Lorem ipsum
-                    <br> dolar sit amet</p>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <h5 id="checked">0</h5>
-                <span class="icon"><i class="fa fa-check-square-o" aria-hidden="true"></i></span>
-                <p>Lorem ipsum
-                    <br> dolar sit amet</p>
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <!--<h5 id="hourglass">0</h5>-->
+                    <span class="icon"><i class="fa fa-university" aria-hidden="true"></i></span>
+                    <p>SEDE
+                        <br>PRÓPRIA</p>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <!--<h5 id="chart">0</h5>-->
+                    <span class="icon"><i class="fa fa-cogs" aria-hidden="true"></i></span>
+                    <p>EQUIPAMENTOS
+                        <br> DE PONTA</p>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <!--<h5 id="usd">0</h5>-->
+                    <span class="icon"><i class="fa fa-users" aria-hidden="true"></i></span>
+                    <p>EQUIPE
+                        <br> ESPECIALIZADA NEOSOUL</p>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <!--<h5 id="checked">0</h5>-->
+                    <span class="icon"><i class="fa fa-lightbulb-o" aria-hidden="true"></i></span>
+                    <p>NÚCLEO DE
+                        <br> PROJETOS E CRIAÇÃO</p>
+                </div>
             </div>
         </div>
     </section>
@@ -90,12 +102,12 @@
     <!--Services-->
     <section class="services" id="services">
         <div class="container">
-            <h3>Services</h3>
+            <h3>Serviços</h3>
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-wordpress" aria-hidden="true"></i></span>
-                        <h4>Wordpress</h4>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <h4>Identidade Visual</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
                 </div>
@@ -104,7 +116,7 @@
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
                         <span><i class="fa fa-paint-brush" aria-hidden="true"></i></span>
-                        <h4>Web Design</h4>
+                        <h4>Desenvolvimento de Logomarca</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
                 </div>
@@ -113,7 +125,7 @@
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
                         <span><i class="fa fa-desktop" aria-hidden="true"></i></span>
-                        <h4>Responsive</h4>
+                        <h4>Desenvolvimento de Site</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
                 </div>
@@ -121,8 +133,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-mobile" aria-hidden="true"></i></span>
-                        <h4>Mobile App</h4>
+                        <span><i class="fa fa-dropbox" aria-hidden="true"></i></span>
+                        <h4>Design de Embalagem</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
                 </div>
@@ -131,7 +143,7 @@
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
                         <span><i class="fa fa-line-chart" aria-hidden="true"></i></span>
-                        <h4>Marketing</h4>
+                        <h4>Consultoria em Marketing</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
                 </div>
@@ -139,8 +151,35 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-life-ring" aria-hidden="true"></i></span>
-                        <h4>Support</h4>
+                        <span><i class="fa fa-commenting" aria-hidden="true"></i></span>
+                        <h4>Consultoria em Comunicação</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-facebook" aria-hidden="true"></i></span>
+                        <h4>Estratégia em Redes Sociais</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-newspaper-o" aria-hidden="true"></i></span>
+                        <h4>Midia Impressa</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-shopping-bag" aria-hidden="true"></i></span>
+                        <h4>Visual Merchandising</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
                 </div>
@@ -183,7 +222,7 @@
     </section>
     <!--Portfolio End-->
     <!--Skills-->
-    <section class="skills" id="skills">
+    <!--<section class="skills" id="skills">
         <h3>Skills</h3>
         <div class="container">
             <div class="card-panel">
@@ -251,10 +290,10 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--Skills End-->
     <!--Pricing-->
-    <section class="pricing" id="pricing">
+    <!--<section class="pricing" id="pricing">
         <h3>Pricing</h3>
         <div class="container">
             <div class="row">
@@ -299,7 +338,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!--Pricing End-->
     <!--Testimonial-->
     <section class="testimonial" id="testimonial">
@@ -307,13 +346,8 @@
         <div class="swiper-container testimonials-container container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-3 col-sm-3 col-xs-3">
-                        <img src="images/team-1.jpg" alt="" class="circle responsive-img">
-                    </div>
-                    <div class="col-md-7 col-sm-6 col-xs-6">
-                        <h5>John Martin</h5>
-                        <p class="star"><span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span></p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu tellus ultrices, mattis ipsum in, pretium eros.</p>
+                    <div class="col-md-6 col-sm-6 col-xs-6 col-md-offset-3">
+                        <img src="images/team-1.jpg" alt="">
                     </div>
                 </div>
                 <div class="swiper-slide waves-effect card-panel">
@@ -374,7 +408,7 @@
     <footer>
         <div class="container">
             <div class="col-md-2 logo">
-                <img src="images/logo.png" alt="">
+                <img src="images/logo2.png" alt="">
             </div>
             <div class="col-md-3 col-sm-6">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
