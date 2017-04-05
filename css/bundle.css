@@ -1,0 +1,54 @@
+/*------------------------------------------------------------------
+[Stylesheet]
+
+Project:	Digital Agency Landing Template
+Version:	1.0
+Last change:	13/03/17
+Primary use:	Landing Template
+-------------------------------------------------------------------*/
+
+/* Googel Font (Raleway) */
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+/* Google Font (Open Sans) */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+/* fontawsome.io icons pack */
+@import url("font-awesome.min.css");
+/* materialize css */
+@import url("materialize.min.css");
+/* bootstrap grid system */
+@import url("bootstrap.grid.min.css");
+/* circle progress css */
+@import url("circle.min.css");
+/* swiperjs slide plugin css */
+@import url("swiper.min.css");
+/* style */
+@import url("style.min.css");
+@import url("themes/purple.min.css");
+
+/*------------------------------------------------------------------
+[Table of contents]  (sass/style.scss)
+
+1. Body
+2. Header / header, nav
+3. About / .about #about
+4. Services / .services #services
+5. Portfolio / .portfolio
+6. Skills / .skills #skills
+7. Pricing / .pricing #pricing
+8. Contact / .contact #contact
+9. Footer / footer
+10. Helpers
+
+
+/*------------------------------------------------------------------
+# [Color Theme]
+
+# Pink : themes/pink.min.css
+# Teal : themes/teal.min.css
+# Green: themes/green.min.css
+# Cyan: themes/teal.min.css
+# Orange: themes/orange.min.css
+# Red: themes/red.min.css
+# Purple: themes/purple.min.css
+# Blue : Default
+# */
