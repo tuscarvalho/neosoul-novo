@@ -35,8 +35,8 @@
                     <li><a href="#about">Sobre</a></li>
                     <li><a href="#services">Serviços</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#skills">Skills</a></li>
-                    <li><a href="#pricing">Pricing</a></li>
+                    <!--<li><a href="#skills">Skills</a></li>
+                    <li><a href="#pricing">Pricing</a></li>-->
                     <li><a href="#contact">Contato</a></li>
                 </ul>
                 <!--Mobile menu button-->
@@ -116,7 +116,7 @@
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
                         <span><i class="fa fa-paint-brush" aria-hidden="true"></i></span>
-                        <h4>Desenvolvimento de Logomarca</h4>
+                        <h4>Criação de Logomarca</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
                 </div>
@@ -125,7 +125,7 @@
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
                         <span><i class="fa fa-desktop" aria-hidden="true"></i></span>
-                        <h4>Desenvolvimento de Site</h4>
+                        <h4>Criação de Site</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
                 </div>
@@ -346,8 +346,13 @@
         <div class="swiper-container testimonials-container container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-6 col-sm-6 col-xs-6 col-md-offset-3">
-                        <img src="images/team-1.jpg" alt="">
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <img src="images/team-1.jpg" alt="" class="circle responsive-img">
+                    </div>
+                    <div class="col-md-7 col-sm-6 col-xs-6">
+                        <h5>John Martin</h5>
+                        <p class="star"><span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu tellus ultrices, mattis ipsum in, pretium eros.</p>
                     </div>
                 </div>
                 <div class="swiper-slide waves-effect card-panel">
