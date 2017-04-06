@@ -108,7 +108,7 @@
                         <span><i class="fa fa-eye" aria-hidden="true"></i></span>
                         <h4>Identidade Visual</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Padronizamos a sua empresa, sua marca.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -117,7 +117,7 @@
                         <span><i class="fa fa-paint-brush" aria-hidden="true"></i></span>
                         <h4>Criação de Logomarca</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Estudamos seu logotipo para criarmos um projeto moderno e padronizado.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -126,7 +126,7 @@
                         <span><i class="fa fa-desktop" aria-hidden="true"></i></span>
                         <h4>Criação de Site</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Seu site moderno,desenvolvido com as mais novas tecnologias e adaptável em  dispositivos mobile,tablets e desktops .</p>
                 </div>
             </div>
 
@@ -136,7 +136,7 @@
                         <span><i class="fa fa-line-chart" aria-hidden="true"></i></span>
                         <h4>Consultoria em Marketing</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Sua empresa competitiva no mercado.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -145,7 +145,7 @@
                         <span><i class="fa fa-commenting" aria-hidden="true"></i></span>
                         <h4>Consultoria em Comunicação</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Cuidamos da imagem da sua empresa para torná-la sólida no mercado.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -154,7 +154,7 @@
                         <span><i class="fa fa-facebook" aria-hidden="true"></i></span>
                         <h4>Estratégia em Redes Sociais</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Sua empresa VISÍVEL nos meios de comunicação.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -163,7 +163,7 @@
                         <span><i class="fa fa-newspaper-o" aria-hidden="true"></i></span>
                         <h4>Midia Impressa</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Seu material de apresentação impresso.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -172,7 +172,7 @@
                         <span><i class="fa fa-shopping-bag" aria-hidden="true"></i></span>
                         <h4>Visual Merchandising</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Organizamos sua loja para que seu produto fique bem exposto trazendo novos clientes.</p>
                 </div>
             </div>
         </div>
