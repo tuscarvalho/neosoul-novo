@@ -453,27 +453,29 @@
     <section class="contact" id="contact">
         <h3>Contato</h3>
         <div class="container">
-            <div>
-                <div class="input-field col-md-4">
-                    <input id="first_name" type="text" class="validate">
-                    <label for="first_name">Nome</label>
+            <form name="form_envio" action="" method="POST">
+                <div>
+                    <div class="input-field col-md-4">
+                        <input id="first_name" type="text" class="validate" name="nome">
+                        <label for="first_name">Nome</label>
+                    </div>
+                    <div class="input-field col-md-4">
+                        <input id="mail" type="email" class="validate" name="email">
+                        <label for="mail">E-Mail</label>
+                    </div>
+                    <div class="input-field col-md-4">
+                        <input id="subject" type="text" class="validate" name="assunto">
+                        <label for="subject">Assunto</label>
+                    </div>
                 </div>
-                <div class="input-field col-md-4">
-                    <input id="mail" type="email" class="validate">
-                    <label for="mail">E-Mail</label>
+                <div>
+                    <div class="input-field col-md-12">
+                        <textarea id="message" class="materialize-textarea" name="mensagem"></textarea>
+                        <label for="message">Mensagem</label>
+                    </div>
                 </div>
-                <div class="input-field col-md-4">
-                    <input id="subject" type="text" class="validate">
-                    <label for="subject">Assunto</label>
-                </div>
-            </div>
-            <div>
-                <div class="input-field col-md-12">
-                    <textarea id="message" class="materialize-textarea"></textarea>
-                    <label for="message">Mensagem</label>
-                </div>
-            </div>
-            <span><a class="btn bg-color waves-effect">Enviar</a></span>
+                <span><button type="submit" class="btn bg-color waves-effect">Enviar</button></span>
+            </form>
         </div>
     </section>
     <!--Contact End-->
