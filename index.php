@@ -32,7 +32,7 @@
             </div>
             <div class="col-md-9 col-sm-6 col-xs-6">
                 <ul class="menu right">
-                    <li><a href="#about">Sobre</a></li>
+                    <li><a href="#about">Quem Somos</a></li>
                     <li><a href="#services">Serviços</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
                     <!--<li><a href="#skills">Skills</a></li>
@@ -50,8 +50,7 @@
     <div class="container content">
         <div class="content">
             <h1>Neo Soul Soluções</h1>
-            <p>Somos uma empresa com equipes  especializadas em Consultoria,Marketing, Desenvolvimento de Web Sites e Identidade Visual.
-                Trazendo modernidade para VOCÊ!
+            <p>Somos uma empresa com equipes  especializadas em Marketing, Desenvolvimento de Web Sites,Identidade. Cuidamso também da Comunicação Visual, como fachadas,brindes e etc.
             </p>
             <a class="btn dark-blue waves-effect waves-light" href="index.php#about">Saiba mais!</a>
         </div>
@@ -102,7 +101,7 @@
     <!--Services-->
     <section class="services" id="services">
         <div class="container">
-            <h3>Serviços</h3>
+            <h3>Merketing Digital</h3>
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
@@ -130,15 +129,7 @@
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6">
-                <div class="card-panel hoverable waves-effect">
-                    <div class="service-title">
-                        <span><i class="fa fa-dropbox" aria-hidden="true"></i></span>
-                        <h4>Design de Embalagem</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
-                </div>
-            </div>
+
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
@@ -180,6 +171,83 @@
                     <div class="service-title">
                         <span><i class="fa fa-shopping-bag" aria-hidden="true"></i></span>
                         <h4>Visual Merchandising</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="services" id="services">
+        <div class="container">
+            <h3>Comunicação Visual</h3>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-exchange" aria-hidden="true"></i></span>
+                        <h4>Sinalização</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-gift" aria-hidden="true"></i></span>
+                        <h4>Brindes</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-home" aria-hidden="true"></i></span>
+                        <h4>Fachadas</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-folder-o" aria-hidden="true"></i></span>
+                        <h4>Display em acrílico</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-language" aria-hidden="true"></i></span>
+                        <h4>Letra Caixa</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-lightbulb-o" aria-hidden="true"></i></span>
+                        <h4>Projeto iluminado</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-cubes" aria-hidden="true"></i></span>
+                        <h4>Acrílico/MDF/<br>ACM</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-panel hoverable waves-effect">
+                    <div class="service-title">
+                        <span><i class="fa fa-cube" aria-hidden="true"></i></span>
+                        <h4>Impressão 3D</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
                 </div>
@@ -383,12 +451,12 @@
     <!--Testimonial End-->
     <!--Contact-->
     <section class="contact" id="contact">
-        <h3>Contact</h3>
+        <h3>Contato</h3>
         <div class="container">
             <div>
                 <div class="input-field col-md-4">
                     <input id="first_name" type="text" class="validate">
-                    <label for="first_name">First Name</label>
+                    <label for="first_name">Nome</label>
                 </div>
                 <div class="input-field col-md-4">
                     <input id="mail" type="email" class="validate">
@@ -396,16 +464,16 @@
                 </div>
                 <div class="input-field col-md-4">
                     <input id="subject" type="text" class="validate">
-                    <label for="subject">Subject</label>
+                    <label for="subject">Assunto</label>
                 </div>
             </div>
             <div>
                 <div class="input-field col-md-12">
                     <textarea id="message" class="materialize-textarea"></textarea>
-                    <label for="message">Message</label>
+                    <label for="message">Mensagem</label>
                 </div>
             </div>
-            <span><a class="btn bg-color waves-effect">Submit</a></span>
+            <span><a class="btn bg-color waves-effect">Enviar</a></span>
         </div>
     </section>
     <!--Contact End-->
@@ -417,12 +485,12 @@
             </div>
             <div class="col-md-3 col-sm-6">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
-                <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                <span>Rua Soldado Almir Bernardino - Pq Novo Mundo  - SP</span>
                 <div class="clear"></div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <i class="fa fa-phone" aria-hidden="true"></i>
-                <span>+90 538 129 67 45 <br> +90 533 362 95 03</span>
+                <span><br>(11) 2631 - 5108</span>
                 <div class="clear"></div>
             </div>
             <div class="col-md-4 col-sm-12 social-media">
