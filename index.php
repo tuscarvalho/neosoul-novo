@@ -430,7 +430,7 @@
                 </div>
                 <div class="swiper-slide waves-effect card-panel">
                     <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-4 cliente">
-                        <img style="position:absolute;margin:-30px 30px 30px 45px" src="images/cli4.png" src="images/cli4.png" alt="">
+                        <img style="position:absolute;margin:-9px 30px 30px 45px" src="images/cli4.png" src="images/cli4.png" alt="">
                     </div>
                 </div>
                 <div class="swiper-slide waves-effect card-panel">
