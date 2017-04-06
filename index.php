@@ -50,7 +50,7 @@
     <div class="container content">
         <div class="content">
             <h1>Neo Soul Soluções</h1>
-            <p>Somos uma empresa com equipes  especializadas em Marketing, Desenvolvimento de Web Sites,Identidade. Cuidamso também da Comunicação Visual, como fachadas,brindes e etc.
+            <p>Somos uma empresa com equipes  especializadas em Marketing, Desenvolvimento de Web Site,Identidade Visual, também no segmento de Comunicação Visual, como, fachadas,brindes, displays, projetos 3D e etc.
             </p>
             <a class="btn dark-blue waves-effect waves-light" href="index.php#about">Saiba mais!</a>
         </div>
@@ -65,7 +65,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <p>
-                        Uma empresa com uma nova abordagem, mais próxima, com equipamentos e um time de especialistas que desenvolverá seus desafios com uma nova visão, muito mais moderna e pronta para as necessidades do mercado atual. Nosso atendimento é personalizado e estamos prontos para realizar seus projetos desde a ideia até a instalação.
+                        Uma empresa com uma nova abordagem, mais próxima, com equipamentos e um time de especialistas que desenvolverá seus desafios com uma nova visão, muito mais moderna e pronta para as necessidades do mercado atual. Nosso atendimento é personalizado e estamos prontos para realizar seus projetos desde a ideia até a instalação ou implantação.
                     </p>
                 </div>
             </div>
@@ -480,7 +480,7 @@
     <!--Footer-->
     <footer>
         <div class="container">
-            <div class="col-md-2 logo">
+            <div class="col-md-3 logo">
                 <img src="images/logo2.png" alt="">
             </div>
             <div class="col-md-3 col-sm-6">
@@ -493,10 +493,10 @@
                 <span><br>(11) 2631 - 5108</span>
                 <div class="clear"></div>
             </div>
-            <div class="col-md-4 col-sm-12 social-media">
+            <div class="col-md-3 col-sm-12 social-media">
                 <a href="https://www.facebook.com/neosoulcomunicacao" target="_blank" class="btn-floating"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                <!--<a class="btn-floating"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                <a class="btn-floating"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                <a class="btn-floating"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                <!--<a class="btn-floating"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                 <a class="btn-floating"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
                 <a class="btn-floating"><i class="fa fa-youtube" aria-hidden="true"></i></a>-->
             </div>
