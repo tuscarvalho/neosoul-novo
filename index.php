@@ -414,33 +414,33 @@
         <div class="swiper-container testimonials-container container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-3 col-sm-3 col-xs-3">
-                        <img src="images/team-1.jpg" alt="" class="circle responsive-img">
-                    </div>
-                    <div class="col-md-7 col-sm-6 col-xs-6">
-                        <h5>John Martin</h5>
-                        <p class="star"><span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span></p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu tellus ultrices, mattis ipsum in, pretium eros.</p>
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
+                        <img src="images/cli1.png" alt="">
                     </div>
                 </div>
                 <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-3 col-sm-3 col-xs-3">
-                        <img src="images/team-1.jpg" alt="" class="circle responsive-img">
-                    </div>
-                    <div class="col-md-7 col-sm-6 col-xs-6">
-                        <h5>John Martin</h5>
-                        <p class="star"><span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span></p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu tellus ultrices, mattis ipsum in, pretium eros.</p>
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
+                        <img src="images/cli2.png" alt="">
                     </div>
                 </div>
                 <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-3 col-sm-3 col-xs-3">
-                        <img src="images/team-1.jpg" alt="" class="circle responsive-img">
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
+                        <img src="images/cli3.png" alt="">
                     </div>
-                    <div class="col-md-7 col-sm-6 col-xs-6">
-                        <h5>John Martin</h5>
-                        <p class="star"><span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span> <span>&#9733;</span></p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu tellus ultrices, mattis ipsum in, pretium eros.</p>
+                </div>
+                <div class="swiper-slide waves-effect card-panel">
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-4 cliente">
+                        <img style="position:absolute;margin:-30px 30px 30px 45px" src="images/cli4.png" src="images/cli4.png" alt="">
+                    </div>
+                </div>
+                <div class="swiper-slide waves-effect card-panel">
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
+                        <img src="images/cli5.png" alt="">
+                    </div>
+                </div>
+                <div class="swiper-slide waves-effect card-panel">
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
+                        <img src="images/cli6.png" alt="">
                     </div>
                 </div>
             </div>
@@ -494,11 +494,11 @@
                 <div class="clear"></div>
             </div>
             <div class="col-md-4 col-sm-12 social-media">
-                <a class="btn-floating"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                <a class="btn-floating"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                <a href="https://www.facebook.com/neosoulcomunicacao" target="_blank" class="btn-floating"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                <!--<a class="btn-floating"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                 <a class="btn-floating"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                 <a class="btn-floating"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
-                <a class="btn-floating"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                <a class="btn-floating"><i class="fa fa-youtube" aria-hidden="true"></i></a>-->
             </div>
         </div>
     </footer>
