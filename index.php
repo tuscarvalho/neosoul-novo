@@ -456,8 +456,9 @@
             <form name="form_envio" action="envio.php" method="POST">
                 <div>
                     <div class="input-field col-md-4">
-                        <input id="first_name" type="text" class="validate" name="nome">
+                        <input id="first_name" type="text" class="validate" name="nome" required="required">
                         <label for="first_name">Nome</label>
+                        <div></div>
                     </div>
                     <div class="input-field col-md-4">
                         <input id="mail" type="email" class="validate" name="email">
@@ -466,15 +467,18 @@
                     <div class="input-field col-md-4">
                         <input id="subject" type="text" class="validate" name="assunto">
                         <label for="subject">Assunto</label>
+                        <div></div>
                     </div>
                 </div>
                 <div>
                     <div class="input-field col-md-12">
                         <textarea id="message" class="materialize-textarea" name="mensagem"></textarea>
                         <label for="message">Mensagem</label>
+                        <div></div>
                     </div>
                 </div>
                 <span><button type="submit" class="btn bg-color waves-effect">Enviar</button></span>
+                <div></div>
             </form>
         </div>
     </section>
