@@ -186,7 +186,7 @@
                         <span><i class="fa fa-exchange" aria-hidden="true"></i></span>
                         <h4>Sinalização</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Adesivação de frotas, banners,adesivos.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -195,7 +195,7 @@
                         <span><i class="fa fa-gift" aria-hidden="true"></i></span>
                         <h4>Brindes</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Brindes exclusivos e personalizados.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -204,16 +204,16 @@
                         <span><i class="fa fa-home" aria-hidden="true"></i></span>
                         <h4>Fachadas</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Brizes,fachadas de ACM,Painéis em Lonas, Pinturas Prediais e etc.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
                         <span><i class="fa fa-folder-o" aria-hidden="true"></i></span>
-                        <h4>Display em acrílico</h4>
+                        <h4>Acrílico</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Displays Exclusivos e Personalizados,Púpitos,Troféus,Medalhas  etc. </p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -222,7 +222,7 @@
                         <span><i class="fa fa-language" aria-hidden="true"></i></span>
                         <h4>Letra Caixa</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Letras para recepção e letras em relevo.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -231,25 +231,16 @@
                         <span><i class="fa fa-lightbulb-o" aria-hidden="true"></i></span>
                         <h4>Projeto iluminado</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Painéis,Luminárias,Toten,Iluminação de Ambiente e etc.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
                         <span><i class="fa fa-cubes" aria-hidden="true"></i></span>
-                        <h4>Acrílico/MDF/<br>ACM</h4>
+                        <h4>MDF</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <div class="card-panel hoverable waves-effect">
-                    <div class="service-title">
-                        <span><i class="fa fa-cube" aria-hidden="true"></i></span>
-                        <h4>Impressão 3D</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing ealit, sed diaim nonummy nibsih euismod tincidiunt laorieet doloire magna diam aliquafm erat voluitpati.</p>
+                    <p>Caixas para Embalagens,Caixas para Presente,Luminárias,Decorações e etc.</p>
                 </div>
             </div>
         </div>
