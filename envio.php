@@ -1,6 +1,6 @@
 <?php
     require_once('phpmailer/class.phpmailer.php'); //Chamando as classes phpmailer
-    require_once('phpmailer/class.smtp.php');
+    require 'phpmailer/class.smtp.php';
 
     // Tratativa de erros
     error_reporting(E_ALL);
@@ -9,11 +9,10 @@
 
     //Recebendo os dados do formulário
 
-    $nome = $_POST["nome"];
-    $email = $_POST["email"];
-    $assunto = $_POST["assunto"];
-    $mensagem = $_POST["mensagem"];
-
+    $nome = $_POST['nome'];
+    $email = $_POST['email'];
+    $assunto = $_POST['assunto'];
+    $mensagem = $_POST['mensagem'];
 
     //Instanciando o PHPMAILER
 
@@ -28,13 +27,13 @@
     $body .="<h2>Email enviado através do Site NEOSOUL</h2>";
     $body .="<strong>Nome: </strong> $nome<br>";
     $body .="<strong>Email: </strong> $email<br>";
-    $body .="<strong>Assunto: </strong>$assunto<br>";
+    $body .="<strong>Assunto: </strong> $assunto<br>";
     $body .="<strong>Mensagem</strong><br>";
     $body .= $mensagem;
     $body .= "<br>";
     $body .= "-------------------------------;";
     $body .= "<br>";
-    $body .= "Enviado em <strong>".date("h:m:i d/m/Y")."por".$_SERVER['REMOTE_ADDR']."</strong>";
+    $body .= "Enviado em <strong>".date("h:m:i d/m/Y")." por ".$_SERVER['REMOTE_ADDR']."</strong>";
     $body .= "<br>";
     $body .= "-------------------------------;";
 
@@ -42,13 +41,13 @@
     //INFORMAÇÕES PARA O SERVIDOR
     $mail->IsSMTP();
     $mail->SMTPAuth = true;
-    $mail->Port= 587; //SMTP porta (as mais utilizadas são '25' e '587'
+    $mail->Port = 587; //SMTP porta (as mais utilizadas são '25' e '587'
 
     $mail->Host = "smtp.neosoulsolucoes.com.br"; //SMTP Servidor
     $mail->Username = "projetos@neosoulsolucoes.com.br"; //SMTP Usuario
     $mail->Password = "agencianeosoul123#"; //SMTP Senha
 
-    $mail->AddReplayTo($email,$nome); //Responder para...
+    $mail->AddReplyTo($email,$nome); //Responder para...
     $mail->From = $email; //Email fornecido pelo cliente;
     $mail->FromName = $nome; //Nome fornecido pelo cliente;
 

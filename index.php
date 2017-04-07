@@ -453,7 +453,7 @@
     <section class="contact" id="contact">
         <h3>Contato</h3>
         <div class="container">
-            <form name="form_envio" action="" method="POST">
+            <form name="form_envio" action="envio.php" method="POST">
                 <div>
                     <div class="input-field col-md-4">
                         <input id="first_name" type="text" class="validate" name="nome">
