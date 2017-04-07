@@ -186,7 +186,7 @@
                         <span><i class="fa fa-exchange" aria-hidden="true"></i></span>
                         <h4>Sinalização</h4>
                     </div>
-                    <p>Adesivação de frotas, banners,adesivos.</p>
+                    <p>Adesivação de frotas, banners,adesivos e etc.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -204,7 +204,7 @@
                         <span><i class="fa fa-home" aria-hidden="true"></i></span>
                         <h4>Fachadas</h4>
                     </div>
-                    <p>Brizes,fachadas de ACM,Painéis em Lonas, Pinturas Prediais e etc.</p>
+                    <p>Brizes,Fachadas de ACM,Painéis em Lonas, Pinturas Prediais e etc.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -250,32 +250,57 @@
     <section class="portfolio" id="portfolio">
         <h3>Portfolio</h3>
         <div class="container">
-            <div class="col-md-4 col-sm-6">
-                <img src="images/portfolio-1.jpg" alt="" class="materialboxed">
+            <div class="row">
+                <div class="col-md-1">
+                    <a href="">Sinalização</a>
+                </div>
+                <div class="col-md-1">
+                    <a href="">Brindes</a>
+                </div>
+                <div class="col-md-1">
+                    <a href="">Fachadas</a>
+                </div>
+                <div class="col-md-1">
+                    <a href="">Acrílico</a>
+                </div>
+                <div class="col-md-1">
+                    <a href="">Letra</a>
+                </div>
+                <div class="col-md-2 col-sm-6">
+                    <a href="">Projetos Ilumiados</a>
+                </div>
+                <div class="col-md-1 col-sm-6">
+                    <a href="">MDF</a>
+                </div>
             </div>
-            <div class="col-md-4 col-sm-6">
-                <img src="images/portfolio-2.jpg" alt="" class="materialboxed">
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <img src="images/portfolio-3.jpg" alt="" class="materialboxed">
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <img src="images/portfolio-4.jpg" alt="" class="materialboxed">
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <img src="images/portfolio-5.jpg" alt="" class="materialboxed">
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <img src="images/portfolio-6.jpg" alt="" class="materialboxed">
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <img src="images/portfolio-7.jpg" alt="" class="materialboxed">
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <img src="images/portfolio-8.jpg" alt="" class="materialboxed">
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <img src="images/portfolio-9.jpg" alt="" class="materialboxed">
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-1.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-2.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-3.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-4.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-5.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-6.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-7.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-8.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-9.jpg" alt="" class="materialboxed">
+                </div>
             </div>
         </div>
     </section>
