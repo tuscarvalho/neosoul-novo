@@ -252,8 +252,8 @@
         <div class="container">
             <div class="efeito espaco">
                 <ul class="list-inline">
-                    <li><a href="">Todos</a></li>
-                    <li><a href="">Sinalização</a></li>
+                    <li><a onclick="MostrarMensagem();" href="#portfolio">Todos</a></li>
+                    <li><a onclick="EsconderMensagem();" href="#portfolio">Sinalização</a></li>
                     <li><a href="">Brindes</a></li>
                     <li><a href="">Fachadas</a></li>
                     <li><a href="">Acrílico</a></li>
@@ -263,32 +263,47 @@
                 </ul>
             </div>
             <div class="row">
-                <div class="col-md-4 col-sm-6">
-                    <img src="images/portfolio-1.jpg" alt="" class="materialboxed">
+                <div class="mensagem">
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-1.jpg" alt="" class="materialboxed">
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-2.jpg" alt="" class="materialboxed">
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-3.jpg" alt="" class="materialboxed">
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-4.jpg" alt="" class="materialboxed">
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-5.jpg" alt="" class="materialboxed">
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-6.jpg" alt="" class="materialboxed">
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-7.jpg" alt="" class="materialboxed">
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-8.jpg" alt="" class="materialboxed">
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-9.jpg" alt="" class="materialboxed">
+                    </div>
                 </div>
-                <div class="col-md-4 col-sm-6">
-                    <img src="images/portfolio-2.jpg" alt="" class="materialboxed">
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <img src="images/portfolio-3.jpg" alt="" class="materialboxed">
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <img src="images/portfolio-4.jpg" alt="" class="materialboxed">
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <img src="images/portfolio-5.jpg" alt="" class="materialboxed">
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <img src="images/portfolio-6.jpg" alt="" class="materialboxed">
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <img src="images/portfolio-7.jpg" alt="" class="materialboxed">
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <img src="images/portfolio-8.jpg" alt="" class="materialboxed">
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <img src="images/portfolio-9.jpg" alt="" class="materialboxed">
+            </div>
+            <div class="row">
+                <div class="mensagem2">
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-5.jpg" alt="" class="materialboxed">
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-6.jpg" alt="" class="materialboxed">
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="images/portfolio-7.jpg" alt="" class="materialboxed">
+                    </div>
                 </div>
             </div>
         </div>
@@ -518,6 +533,7 @@
 
 <script src="js/bundle.js"></script>
 <script src="js/app.js"></script>
+<script src="js/toggle.js"></script>
 </body>
 
 </html>
