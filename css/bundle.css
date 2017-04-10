@@ -21,9 +21,14 @@ Primary use:	Landing Template
 @import url("circle.min.css");
 /* swiperjs slide plugin css */
 @import url("swiper.min.css");
+
+/* Lista*/
+@import url("bootstrap.min.css");
+
 /* style */
 @import url("style.min.css");
 @import url("themes/purple.min.css");
+
 
 /*------------------------------------------------------------------
 [Table of contents]  (sass/style.scss)

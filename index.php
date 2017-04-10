@@ -117,7 +117,7 @@
                         <span><i class="fa fa-paint-brush" aria-hidden="true"></i></span>
                         <h4>Criação de Logomarca</h4>
                     </div>
-                    <p>Estudamos seu logotipo para criarmos um projeto moderno e padronizado.</p>
+                    <p>Criarmos um projeto moderno e padronizado.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -195,7 +195,7 @@
                         <span><i class="fa fa-gift" aria-hidden="true"></i></span>
                         <h4>Brindes</h4>
                     </div>
-                    <p>Brindes exclusivos e personalizados.</p>
+                    <p>Todos os tipos de Brindes,  exclusivos e personalizados.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -222,7 +222,7 @@
                         <span><i class="fa fa-language" aria-hidden="true"></i></span>
                         <h4>Letra Caixa</h4>
                     </div>
-                    <p>Letras para recepção e letras em relevo.</p>
+                    <p>Letras para recepção e letras em baixo relevo.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -250,28 +250,17 @@
     <section class="portfolio" id="portfolio">
         <h3>Portfolio</h3>
         <div class="container">
-            <div class="row">
-                <div class="col-md-1">
-                    <a href="">Sinalização</a>
-                </div>
-                <div class="col-md-1">
-                    <a href="">Brindes</a>
-                </div>
-                <div class="col-md-1">
-                    <a href="">Fachadas</a>
-                </div>
-                <div class="col-md-1">
-                    <a href="">Acrílico</a>
-                </div>
-                <div class="col-md-1">
-                    <a href="">Letra</a>
-                </div>
-                <div class="col-md-2 col-sm-6">
-                    <a href="">Projetos Ilumiados</a>
-                </div>
-                <div class="col-md-1 col-sm-6">
-                    <a href="">MDF</a>
-                </div>
+            <div class="efeito espaco">
+                <ul class="list-inline">
+                    <li><a href="">Todos</a></li>
+                    <li><a href="">Sinalização</a></li>
+                    <li><a href="">Brindes</a></li>
+                    <li><a href="">Fachadas</a></li>
+                    <li><a href="">Acrílico</a></li>
+                    <li><a href="">Letra</a></li>
+                    <li><a href="">Projetos Iluminados</a></li>
+                    <li><a href="">MDF</a></li>
+                </ul>
             </div>
             <div class="row">
                 <div class="col-md-4 col-sm-6">
