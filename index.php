@@ -6,6 +6,7 @@
     <title>Neo Soul - Soluções para Comunicação e Eventos</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <link rel="stylesheet" href="css/bundle.css">
 </head>
 
@@ -101,7 +102,7 @@
     <!--Services-->
     <section class="services" id="services">
         <div class="container">
-            <h3>Merketing Digital</h3>
+            <h3>Marketing Digital</h3>
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
@@ -252,58 +253,72 @@
         <div class="container">
             <div class="efeito espaco">
                 <ul class="list-inline">
-                    <li><a onclick="MostrarMensagem();" href="#portfolio">Todos</a></li>
-                    <li><a onclick="EsconderMensagem();" href="#portfolio">Sinalização</a></li>
-                    <li><a href="">Brindes</a></li>
-                    <li><a href="">Fachadas</a></li>
-                    <li><a href="">Acrílico</a></li>
-                    <li><a href="">Letra</a></li>
-                    <li><a href="">Projetos Iluminados</a></li>
-                    <li><a href="">MDF</a></li>
+                    <li><a href="#portfolio" onclick="mostra('todos');">Todos</a></li>
+                    <li><a href="#portfolio" onclick="mostra('sinalizacao');">Sinalização</a></li>
+                    <li><a href="#portfolio" onclick="mostra('brindes');">Brindes</a></li>
+                    <li><a href="#portfolio" onclick="mostra('fachadas');">Fachadas</a></li>
                 </ul>
             </div>
-            <div class="row">
-                <div class="mensagem">
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-1.jpg" alt="" class="materialboxed">
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-2.jpg" alt="" class="materialboxed">
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-3.jpg" alt="" class="materialboxed">
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-4.jpg" alt="" class="materialboxed">
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-5.jpg" alt="" class="materialboxed">
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-6.jpg" alt="" class="materialboxed">
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-7.jpg" alt="" class="materialboxed">
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-8.jpg" alt="" class="materialboxed">
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-9.jpg" alt="" class="materialboxed">
-                    </div>
+            <div id="todos">
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-1.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-2.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-3.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-4.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-5.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-6.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-7.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-8.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-9.jpg" alt="" class="materialboxed">
                 </div>
             </div>
-            <div class="row">
-                <div class="mensagem2">
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-5.jpg" alt="" class="materialboxed">
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-6.jpg" alt="" class="materialboxed">
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/portfolio-7.jpg" alt="" class="materialboxed">
-                    </div>
+            <div id="sinalizacao" style="display:none;">
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-1.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-2.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-3.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-4.jpg" alt="" class="materialboxed">
+                </div>
+            </div>
+            <div id="brindes" style="display:none;">
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-3.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-4.jpg" alt="" class="materialboxed">
+                </div>
+            </div>
+            <div id="fachadas" style="display:none;">
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-1.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-2.jpg" alt="" class="materialboxed">
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <img src="images/portfolio-2.jpg" alt="" class="materialboxed">
                 </div>
             </div>
         </div>
@@ -533,7 +548,7 @@
 
 <script src="js/bundle.js"></script>
 <script src="js/app.js"></script>
-<script src="js/toggle.js"></script>
+<script src="js/toggle2.js"></script>
 </body>
 
 </html>
