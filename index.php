@@ -445,16 +445,42 @@
     <!--Testimonial-->
     <section style="margin-top:-100px; margin-bottom:40px" class="testimonial" id="testimonial">
         <h3>Clientes</h3>
-        <div class="container">
+        <div class="swiper-container testimonials-container container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide waves-effect card-panel">
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
+                        <img src="images/cli1.png" alt="">
+                    </div>
+                </div>
+                <div class="swiper-slide waves-effect card-panel">
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
+                        <img src="images/cli2.png" alt="">
+                    </div>
+                </div>
+                <div class="swiper-slide waves-effect card-panel">
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
+                        <img src="images/cli3.png" alt="">
+                    </div>
+                </div>
+                <div class="swiper-slide waves-effect card-panel">
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
+                        <img src="images/cli6.png" alt="">
+                    </div>
+                </div>
+            </div>
+            <!-- Add Pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <!--<div class="container">
             <div class="row">
                 <div class="owl-theme owl-carousel">
-                    <div class="col-md-3 col-md-offset-4 col-sm-4"><img src="images/cli1.png" alt=""></div>
-                    <div class="col-md-3 col-md-offset-4"><img src="images/cli2.png" alt=""></div>
+                    <div class="col-md-1 col-md-offset-4"><img src="images/cli1.png" alt=""></div>
+                    <div class="col-md-1 col-md-offset-4"><img src="images/cli2.png" alt=""></div>
                     <div class="col-md-3 col-md-offset-4"><img src="images/cli3.png" alt=""></div>
                     <div class="col-md-3 col-md-offset-4"><img src="images/cli6.png" alt=""></div>
                 </div>
             </div>
-        </div>
+        </div>-->
     </section>
     <!--Testimonial End-->
     <!--Contact-->
@@ -469,7 +495,7 @@
                         <div></div>
                     </div>
                     <div class="input-field col-md-4">
-                        <input id="mail" type="email" class="validate" name="email">
+                        <input id="mail" type="email" class="validate" name="email" required="required">
                         <label for="mail">E-Mail</label>
                     </div>
                     <div class="input-field col-md-4">
@@ -480,7 +506,7 @@
                 </div>
                 <div>
                     <div class="input-field col-md-12">
-                        <textarea id="message" class="materialize-textarea" name="mensagem"></textarea>
+                        <textarea id="message" class="materialize-textarea" name="mensagem" required="required"></textarea>
                         <label for="message">Mensagem</label>
                         <div></div>
                     </div>
