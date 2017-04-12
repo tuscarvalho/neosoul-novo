@@ -29,6 +29,9 @@ Primary use:	Landing Template
 @import url("style.min.css");
 @import url("themes/purple.min.css");
 
+@import url("estilo.css");
+@import url("animate.css");
+
 
 /*------------------------------------------------------------------
 [Table of contents]  (sass/style.scss)

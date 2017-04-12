@@ -1,0 +1,33 @@
+/*reset*/
+*{
+    list-style: none ;
+    outline: 0;
+}
+
+#content {
+    margin: 0 auto;
+    width: 650px;
+    height: 200px;
+}
+
+#carrossel {
+    float: left;
+    width: 630px;
+    overflow: hidden;
+    height: 150px;
+}
+
+#carrossel ul li {
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 0 5px;
+    padding-left: 50px;
+}
+
+#menu-carrossel {
+    float: left;
+    clear: both;
+    width: 100%;
+    text-align: center;
+}

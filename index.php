@@ -6,7 +6,6 @@
     <title>Neo Soul - Soluções para Comunicação e Eventos</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <link rel="stylesheet" href="css/bundle.css">
 </head>
 
@@ -444,43 +443,17 @@
     </section>-->
     <!--Pricing End-->
     <!--Testimonial-->
-    <section class="testimonial" id="testimonial">
-        <h3>Clients</h3>
-        <div class="swiper-container testimonials-container container">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
-                        <img src="images/cli1.png" alt="">
-                    </div>
-                </div>
-                <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
-                        <img src="images/cli2.png" alt="">
-                    </div>
-                </div>
-                <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
-                        <img src="images/cli3.png" alt="">
-                    </div>
-                </div>
-                <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-4 cliente">
-                        <img style="position:absolute;margin:-9px 30px 30px 45px" src="images/cli4.png" src="images/cli4.png" alt="">
-                    </div>
-                </div>
-                <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
-                        <img src="images/cli5.png" alt="">
-                    </div>
-                </div>
-                <div class="swiper-slide waves-effect card-panel">
-                    <div class="col-md-3 col-sm-3 col-xs-3 col-md-offset-3 cliente">
-                        <img src="images/cli6.png" alt="">
-                    </div>
+    <section style="margin-top:-100px; margin-bottom:40px" class="testimonial" id="testimonial">
+        <h3>Clientes</h3>
+        <div class="container">
+            <div class="row">
+                <div class="owl-theme owl-carousel">
+                    <div class="col-md-3 col-md-offset-4 col-sm-4"><img src="images/cli1.png" alt=""></div>
+                    <div class="col-md-3 col-md-offset-4"><img src="images/cli2.png" alt=""></div>
+                    <div class="col-md-3 col-md-offset-4"><img src="images/cli3.png" alt=""></div>
+                    <div class="col-md-3 col-md-offset-4"><img src="images/cli6.png" alt=""></div>
                 </div>
             </div>
-            <!-- Add Pagination -->
-            <div class="swiper-pagination"></div>
         </div>
     </section>
     <!--Testimonial End-->
@@ -546,9 +519,13 @@
     <!--Footer End-->
 </main>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="js/bundle.js"></script>
 <script src="js/app.js"></script>
 <script src="js/toggle2.js"></script>
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+
 </body>
 
 </html>
