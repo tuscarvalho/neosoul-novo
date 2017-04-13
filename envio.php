@@ -62,7 +62,9 @@
 
     $mail->Send();
 
-    echo "<script type='text/javascript'> alert('Mensagem enviada com sucesso!')</script>"; //retorno devolvido para o ajax caso sucesso
+    echo "<script type='text/javascript'>
+            alert('Mensagem enviada com sucesso!');
+          </script>"; //retorno devolvido para o ajax caso sucesso
     echo "<script type='text/javascript'>window.location.href='index.php'; </script>";
 
     }catch(phpmailerException $e){

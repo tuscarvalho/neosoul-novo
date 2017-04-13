@@ -487,7 +487,7 @@
     <section class="contact" id="contact">
         <h3>Contato</h3>
         <div class="container">
-            <form name="form_envio" action="envio.php" method="POST">
+            <form id="form" name="form_envio" action="envio.php" method="POST">
                 <div>
                     <div class="input-field col-md-4">
                         <input id="first_name" type="text" class="validate" name="nome" required="required">
@@ -512,7 +512,6 @@
                     </div>
                 </div>
                 <span><button type="submit" class="btn bg-color waves-effect">Enviar</button></span>
-                <div></div>
             </form>
         </div>
     </section>
