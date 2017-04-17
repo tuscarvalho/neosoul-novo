@@ -3,9 +3,13 @@
 
 <head>
 
-    <title>Neo Soul - Soluções para Comunicação e Eventos</title>
+    <title>Soluções em Marketing - Comunicação Digital e Eventos</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index, follow">
+    <link rel=”canonical” href=”www.neosoulsolucoes.com.br” />
+    <meta content="Somos uma agência  especializada em Soluções em Marketing, Comunicação Digital e Comunicação Visual, com uma visão moderna e uma equipe pronta para atender as necessidades de sua empresa."
+    name="description">
     <link rel="stylesheet" href="css/bundle.css">
 </head>
 
@@ -28,7 +32,7 @@
     <nav>
         <div class="container">
             <div class="col-md-3 col-sm-6 col-xs-6 logo">
-                <img src="images/logo.png" alt="">
+                <a href="index.php"><img src="images/logo.png" alt=""></a>
             </div>
             <div class="col-md-9 col-sm-6 col-xs-6">
                 <ul class="menu right">
@@ -60,12 +64,12 @@
 <main>
     <!--About-->
     <section class="about" id="about">
-        <h3>Conheça a NeoSoul</h3>
+        <h3>Conheça a Neo Soul Soluções</h3>
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <p>
-                        Uma empresa com uma nova abordagem, mais próxima, com equipamentos e um time de especialistas que desenvolverá seus desafios com uma nova visão, muito mais moderna e pronta para as necessidades do mercado atual. Nosso atendimento é personalizado e estamos prontos para realizar seus projetos desde a ideia até a instalação ou implantação.
+                        Somos uma empresa com uma nova abordagem, mais próxima, com equipamentos e um time de especialistas que desenvolverá seus desafios com uma nova visão, muito mais moderna e pronta para as necessidades do mercado atual. Nosso atendimento é personalizado e estamos prontos para realizar seus projetos desde a ideia até a instalação ou implantação.
                     </p>
                 </div>
             </div>
@@ -105,8 +109,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-eye" aria-hidden="true"></i></span>
-                        <h4>Identidade Visual</h4>
+                        <span><i style= "color:#fff;" class="fa fa-eye" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Identidade Visual</h4>
                     </div>
                     <p>Padronizamos a sua empresa, sua marca.</p>
                 </div>
@@ -114,8 +118,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-paint-brush" aria-hidden="true"></i></span>
-                        <h4>Criação de Logomarca</h4>
+                        <span><i style= "color:#fff;" class="fa fa-paint-brush" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Criação de Logomarca</h4>
                     </div>
                     <p>Criarmos um projeto moderno e padronizado.</p>
                 </div>
@@ -123,8 +127,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-desktop" aria-hidden="true"></i></span>
-                        <h4>Criação de Site</h4>
+                        <span><i  style= "color:#fff;" class="fa fa-desktop" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Criação de Site</h4>
                     </div>
                     <p>Seu site moderno,desenvolvido com as mais novas tecnologias e adaptável em  dispositivos mobile,tablets e desktops .</p>
                 </div>
@@ -133,8 +137,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-line-chart" aria-hidden="true"></i></span>
-                        <h4>Consultoria em Marketing</h4>
+                        <span><i style= "color:#fff;" class="fa fa-line-chart" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Consultoria em Marketing</h4>
                     </div>
                     <p>Sua empresa competitiva no mercado.</p>
                 </div>
@@ -142,8 +146,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-commenting" aria-hidden="true"></i></span>
-                        <h4>Consultoria em Comunicação</h4>
+                        <span><i style= "color:#fff;" class="fa fa-commenting" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Consultoria em Comunicação</h4>
                     </div>
                     <p>Cuidamos da imagem da sua empresa para torná-la sólida no mercado.</p>
                 </div>
@@ -151,8 +155,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-facebook" aria-hidden="true"></i></span>
-                        <h4>Estratégia em Redes Sociais</h4>
+                        <span><i style= "color:#fff;" class="fa fa-facebook" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Estratégia em Redes Sociais</h4>
                     </div>
                     <p>Sua empresa VISÍVEL nos meios de comunicação.</p>
                 </div>
@@ -160,8 +164,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-newspaper-o" aria-hidden="true"></i></span>
-                        <h4>Midia Impressa</h4>
+                        <span><i style= "color:#fff;" class="fa fa-newspaper-o" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Midia Impressa</h4>
                     </div>
                     <p>Seu material de apresentação impresso.</p>
                 </div>
@@ -169,8 +173,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-shopping-bag" aria-hidden="true"></i></span>
-                        <h4>Visual Merchandising</h4>
+                        <span><i style= "color:#fff;" class="fa fa-shopping-bag" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Visual Merchandising</h4>
                     </div>
                     <p>Organizamos sua loja para que seu produto fique bem exposto trazendo novos clientes.</p>
                 </div>
@@ -183,8 +187,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-exchange" aria-hidden="true"></i></span>
-                        <h4>Sinalização</h4>
+                        <span><i style= "color:#fff;" class="fa fa-exchange" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Sinalização</h4>
                     </div>
                     <p>Adesivação de frotas, banners,adesivos e etc.</p>
                 </div>
@@ -192,8 +196,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-gift" aria-hidden="true"></i></span>
-                        <h4>Brindes</h4>
+                        <span><i style= "color:#fff;" class="fa fa-gift" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Brindes</h4>
                     </div>
                     <p>Todos os tipos de Brindes,  exclusivos e personalizados.</p>
                 </div>
@@ -201,8 +205,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-home" aria-hidden="true"></i></span>
-                        <h4>Fachadas</h4>
+                        <span><i style= "color:#fff;" class="fa fa-home" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Fachadas</h4>
                     </div>
                     <p>Brizes,Fachadas de ACM,Painéis em Lonas, Pinturas Prediais e etc.</p>
                 </div>
@@ -210,8 +214,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-folder-o" aria-hidden="true"></i></span>
-                        <h4>Acrílico</h4>
+                        <span><i style= "color:#fff;" class="fa fa-folder-o" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Acrílico</h4>
                     </div>
                     <p>Displays Exclusivos e Personalizados,Púpitos,Troféus,Medalhas  etc. </p>
                 </div>
@@ -219,8 +223,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-language" aria-hidden="true"></i></span>
-                        <h4>Letra Caixa</h4>
+                        <span><i style= "color:#fff;" class="fa fa-language" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Letra Caixa</h4>
                     </div>
                     <p>Letras para recepção e letras em baixo relevo.</p>
                 </div>
@@ -228,8 +232,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-lightbulb-o" aria-hidden="true"></i></span>
-                        <h4>Projeto iluminado</h4>
+                        <span><i style= "color:#fff;" class="fa fa-lightbulb-o" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">Projeto iluminado</h4>
                     </div>
                     <p>Painéis,Luminárias,Toten,Iluminação de Ambiente e etc.</p>
                 </div>
@@ -237,8 +241,8 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card-panel hoverable waves-effect">
                     <div class="service-title">
-                        <span><i class="fa fa-cubes" aria-hidden="true"></i></span>
-                        <h4>MDF</h4>
+                        <span><i style= "color:#fff;" class="fa fa-cubes" aria-hidden="true"></i></span>
+                        <h4 style= "color:#fff;">MDF</h4>
                     </div>
                     <p>Caixas para Embalagens,Caixas para Presente,Luminárias,Decorações e etc.</p>
                 </div>
